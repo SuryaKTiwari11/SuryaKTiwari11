@@ -19,7 +19,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nextjs,tailwind,py,cpp,c,postgres,mongodb,redis,docker,aws,firebase,git,github,githubactions,postman,fastapi,graphql,go,r,sqlite,npm,vscode,ubuntu,vim,latex,webpack)](https://skillicons.dev)  
 
 ---
-
 ## 🌐 Socials  
 
 <p align="left"> 
@@ -30,14 +29,8 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
 </a> 
 <a href="https://leetcode.com/u/jamcocobutter/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" width="32" height="32" alt="LeetCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="32" height="32" alt="LeetCode" />
 </a>
 </p>  
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaKTiwari11&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</p>
