@@ -9,7 +9,7 @@
 - 📍 Based in **Patiala, Punjab, India**  
 - 🧠 Currently exploring **LangChain, LLMs & Gen-AI Applications**  
 - 👯 Open to collaborate on **Full-Stack Development & AI Projects**  
-- 🏆 Solved **460+ problems** on [LeetCode](https://leetcode.com/u/jamcocobutter/)  
+- 🏆 Solved **500+ problems** on [LeetCode](https://leetcode.com/u/jamcocobutter/)  
 - 📫 Reach me at: **stiwari2_be23@thapar.edu**  
 
 ---
