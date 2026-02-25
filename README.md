@@ -5,7 +5,8 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **B.Tech CSE (2023–2027)** @ *Thapar Institute of Engineering and Technology*  
+- 🎓 **B.Tech CSE (2023–2027)** @ *Thapar Institute of Engineering and Technology*
+- 🔎 Built a **Lost & Found Portal for TIET** used by **1000+ students:** [Click Here](https://lost-and-found-portal-six.vercel.app/)
 - 📍 Based in **Patiala, Punjab, India**  
 - 🧠 Currently exploring **LangChain, LLMs & Gen-AI Applications**  
 - 👯 Open to collaborate on **Full-Stack Development & AI Projects**  
